@@ -1,4 +1,4 @@
-# nShark v1.0
+# nShark
 
 > **Note**:
 > This project was originally developed six years ago (uploaded in 2024) as a personal learning exercise. It was stored in my archives for a long time before being uploaded for portfolio purposes. It was intended to serve as a stepping stone in my development journey and to showcase my progress at the time. However, please note that the project has not been actively maintained since its creation. It may contain bugs, outdated dependencies, or inefficiencies that reflect my skill level during the initial development phase. As such, this project should primarily be viewed as a learning resource rather than a fully functional or production-ready tool. Contributions and updates are not expected, and users are encouraged to use it for educational purposes rather than practical applications.
