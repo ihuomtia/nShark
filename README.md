@@ -1,8 +1,5 @@
 # nShark
 
-> **Note**:
-> This project was originally developed six years ago (uploaded in 2024) as a personal learning exercise. It was stored in my archives for a long time before being uploaded for portfolio purposes. It was intended to serve as a stepping stone in my development journey and to showcase my progress at the time. However, please note that the project has not been actively maintained since its creation. It may contain bugs, outdated dependencies, or inefficiencies that reflect my skill level during the initial development phase. As such, this project should primarily be viewed as a learning resource rather than a fully functional or production-ready tool. Contributions and updates are not expected, and users are encouraged to use it for educational purposes rather than practical applications.
-
 nShark is a network scanning tool written in C++, designed to explore various network scanning techniques. This project was originally created to learn about network security concepts and improve C++ programming skills.
 
 ```
@@ -30,13 +27,6 @@ nShark is a network scanning tool written in C++, designed to explore various ne
 ()()()()()()()()()()()()(       xmas scan     : nShark -h google.com,youtube.com -p 443,80 -x
 ()()()()()()()()()()()()(       scan all ports: nShark -h 192.168.1.1-255,192.168.4.1/24 -p 0-65535
 ```
-
-## Project Status
-
-- **Not Maintained**: This project is no longer actively maintained or updated.
-- **Contains Bugs**: As a learning project, it contains numerous bugs and inefficiencies.
-- **Outdated Practices**: The code may not reflect current best practices in C++ or network security.
-- **Learning Resource**: Despite its limitations, this project can serve as a starting point for those interested in learning about network scanning techniques and C++ programming.
 
 ## Features
 
@@ -126,7 +116,14 @@ Readers are encouraged to identify bugs, inefficiencies, and areas for improveme
 
 ## Disclaimer
 
-This tool is for educational purposes only. It contains bugs and should not be used in any production or real-world scanning scenarios. Ensure you have permission before scanning any networks or systems that you do not own or have explicit authorization to test.
+This tool is for educational purposes only. This project was originally developed as a personal learning exercise. It was stored in my archives for a long time before being uploaded for portfolio purposes. It was intended to serve as a stepping stone in my development journey and to showcase my progress at the time. However, please note that the project has not been actively maintained since its creation. It may contain bugs, outdated dependencies, or inefficiencies that reflect my skill level during the initial development phase. As such, this project should primarily be viewed as a learning resource rather than a fully functional or production-ready tool. Contributions and updates are not expected, and users are encouraged to use it for educational purposes rather than practical applications.
+
+## Project Status
+
+- **Not Maintained**: This project is no longer actively maintained or updated.
+- **Contains Bugs**: As a learning project, it contains numerous bugs and inefficiencies.
+- **Outdated Practices**: The code may not reflect current best practices in C++ or network security.
+- **Learning Resource**: Despite its limitations, this project can serve as a starting point for those interested in learning about network scanning techniques and C++ programming.
 
 ## Contributing
 
